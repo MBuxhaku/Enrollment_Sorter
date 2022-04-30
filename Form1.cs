@@ -111,7 +111,9 @@ namespace Enrollment_Sorter
         private void exportCSV_Click(object sender, EventArgs e)
         {            
             string fileName = "InsuranceProvider";
-            foreach(List<EnrollmentRecord> list in ListOfRecordList)
+            string directory = Directory.GetCurrentDirectory().ToString();
+
+            foreach (List<EnrollmentRecord> list in ListOfRecordList)
             {
                 var lineOutput = new StringBuilder();
                 fileName = list.FirstOrDefault().Insurance_Company.ToString();
@@ -125,8 +127,10 @@ namespace Enrollment_Sorter
                 }
 
                 // Create and write the csv file
-                File.WriteAllText(Directory.GetCurrentDirectory() + "..\\..\\..\\..\\" + fileName + ".csv", lineOutput.ToString());
+                File.WriteAllText(directory + "..\\..\\..\\..\\" + fileName + ".csv", lineOutput.ToString());
             }
+
+            MessageBox.Show("Insurance CSV Files have been exported to: " + directory);
         }
 
         private void textBox1_DoubleClick(object sender, EventArgs e)
