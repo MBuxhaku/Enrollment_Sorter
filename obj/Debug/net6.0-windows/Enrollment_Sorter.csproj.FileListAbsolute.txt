@@ -1,0 +1,17 @@
+C:\Users\albta\Desktop\Enrollment_Sorter\obj\Debug\net6.0-windows\Enrollment_Sorter.csproj.AssemblyReference.cache
+C:\Users\albta\Desktop\Enrollment_Sorter\obj\Debug\net6.0-windows\Enrollment_Sorter.EnrollmentSorter.resources
+C:\Users\albta\Desktop\Enrollment_Sorter\obj\Debug\net6.0-windows\Enrollment_Sorter.csproj.GenerateResource.cache
+C:\Users\albta\Desktop\Enrollment_Sorter\obj\Debug\net6.0-windows\Enrollment_Sorter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\albta\Desktop\Enrollment_Sorter\obj\Debug\net6.0-windows\Enrollment_Sorter.AssemblyInfoInputs.cache
+C:\Users\albta\Desktop\Enrollment_Sorter\obj\Debug\net6.0-windows\Enrollment_Sorter.AssemblyInfo.cs
+C:\Users\albta\Desktop\Enrollment_Sorter\obj\Debug\net6.0-windows\Enrollment_Sorter.csproj.CoreCompileInputs.cache
+C:\Users\albta\Desktop\Enrollment_Sorter\bin\Debug\net6.0-windows\Enrollment_Sorter.exe
+C:\Users\albta\Desktop\Enrollment_Sorter\bin\Debug\net6.0-windows\Enrollment_Sorter.deps.json
+C:\Users\albta\Desktop\Enrollment_Sorter\bin\Debug\net6.0-windows\Enrollment_Sorter.runtimeconfig.json
+C:\Users\albta\Desktop\Enrollment_Sorter\bin\Debug\net6.0-windows\Enrollment_Sorter.dll
+C:\Users\albta\Desktop\Enrollment_Sorter\bin\Debug\net6.0-windows\Enrollment_Sorter.pdb
+C:\Users\albta\Desktop\Enrollment_Sorter\obj\Debug\net6.0-windows\Enrollment_Sorter.dll
+C:\Users\albta\Desktop\Enrollment_Sorter\obj\Debug\net6.0-windows\refint\Enrollment_Sorter.dll
+C:\Users\albta\Desktop\Enrollment_Sorter\obj\Debug\net6.0-windows\Enrollment_Sorter.pdb
+C:\Users\albta\Desktop\Enrollment_Sorter\obj\Debug\net6.0-windows\Enrollment_Sorter.genruntimeconfig.cache
+C:\Users\albta\Desktop\Enrollment_Sorter\obj\Debug\net6.0-windows\ref\Enrollment_Sorter.dll
